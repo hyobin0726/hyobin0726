@@ -8,7 +8,6 @@ IOT - object_detection : 시각장애인을 위한 제품 인식 디바이스 �
 
 ## Blog
 현재 알고리즘 공부한 내용을 바탕으로 정리 중 입니다. </br>
-https://velog.io/@hyobin0726/posts
 
 ## Education
 부경대학교 정보통신공학 복수전공 - 2022.03 ~ </br>
