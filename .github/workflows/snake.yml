@@ -2,7 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 24 * * *"  # 매일 오후 8시에 자동 업데이트
+     - cron: "0 */24 * * *" 
+     
   workflow_dispatch:
 
 jobs:
