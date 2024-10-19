@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=353535&background=F473FF00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Hyobin+%F0%9F%91%8B+)](https://git.io/typing-svg)
 ## 🚀 Major Projects
 [취미 추천 및 커뮤니티 웹 서비스](https://github.com/hyobin0726/do-frontend) 💬 (2024.04 ~ 2024.06)  
-[전자 상거래 사이트 클론](https://github.com/hyobin0726/ssg-frontend) 🛍️ (2024.02 ~ 2024.04)  
+[이커머스 플랫폼](https://github.com/hyobin0726/ssg-frontend) 🛍️ (2024.02 ~ 2024.04)  
 
 ## ⚙️ Skills
 
