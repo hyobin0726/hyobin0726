@@ -1,8 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=31&pause=1000&color=353535&background=F473FF00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Hyobin+%F0%9F%91%8B+)](https://git.io/typing-svg)
-## 🚀 Major Projects
-[취미 추천 및 커뮤니티 웹 서비스](https://github.com/hyobin0726/do-frontend) 💬 (2024.04 ~ 2024.06)  
-[이커머스 플랫폼](https://github.com/hyobin0726/ssg-frontend) 🛍️ (2024.02 ~ 2024.04)  
 
 ## ⚙️ Skills
 
@@ -32,12 +29,6 @@
   <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
-
-## 🎓 Education
-- 🎓 **신소재시스템공학, 정보통신공학 전공** (2020.03 ~ 2024.02)
-- 💻 **디지털스마트부산 아카데미 3th** (2023.07 ~ 2023.12)
-- 💻 **스파로스 아카데미 4th** (2024.02 ~ 2024.07)
-- 💻 **삼성 청년 SW아카데미(SSAFY) 12th** (2024.07 ~ 현재)
 
 ## 📊 GitHub Stats
 ![hyobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobin0726&show_icons=true&theme=dracula)
