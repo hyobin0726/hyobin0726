@@ -30,9 +30,4 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-![hyobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobin0726&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hb0726)](https://solved.ac/hb0726/)
-
-![github contribution grid snake animation](https://github.com/hyobin0726/hyobin0726/blob/output/github-contribution-grid-snake.svg)
 
