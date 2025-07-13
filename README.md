@@ -30,4 +30,5 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
-
+## 📊 GitHub Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hb0726)](https://solved.ac/hb0726/)
